@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /politica-de-privacidad.html
+Disallow: /terminos-y-condiciones.html
+Disallow: /descargo-de-responsabilidad.html
+Disallow: /contacto.html
+Sitemap: https://glyconorm-official.netlify.app/sitemap.xml
